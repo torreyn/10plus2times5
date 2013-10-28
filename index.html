@@ -1,0 +1,67 @@
+<html>
+<body>
+<head>
+	<link rel="stylesheet" type="text/css" href="fixed.css">
+</head>
+
+<script id="home-tpl" type="text/x-handlebars-template">
+	<div id="wrap">
+		<div id="help"><a href="help.html"><img src="q.png"></a></div>
+		<div id="circleWrap">
+			<div id="start" class="circle click"><p>START</p></div>
+			<div id="stop"  class="circle"><p>STOP</p></div>
+		</div>
+		<div id="minWrap">
+			<div class="clear">
+				<div class="ten min"></div>
+				<div class="ten min"></div>
+				<div class="ten min"></div>
+				<div class="ten min"></div>
+				<div class="ten min"></div>
+			</div>
+
+			<div class="clear">
+				<div class="two min"></div>
+				<div class="two min"></div>
+				<div class="two min"></div>
+				<div class="two min"></div>
+				<div class="two min"></div>
+			</div>
+		</div>
+		<div id="timeBox" class="clear">
+			<div id="timeUnit"></div>
+		</div>
+		<div class="audio">
+			<audio id="beep1" controls>
+		  		<source src="snd/beep1.mp3" type="audio/mpeg">
+			</audio>
+		</div>
+		<div class="audio">
+			<audio id="beep2" controls>
+		  		<source src="snd/beep2.mp3" type="audio/mpeg">
+			</audio>
+		</div>
+	</div>
+</script>
+
+<!-- MuPub Ad integration -->
+<script type="text/javascript"><!--
+    mopub_ad_unit = "537de0ffc8b34f17adda964b269e8b88";
+    mopub_ad_width = 320; // optional
+    mopub_ad_height = 50; // optional
+    mopub_keywords = "custom keywords"; // optional
+    //-->
+</script>
+<script type="text/javascript" src="http://ads.mopub.com/js/client/mopub.js"></script> 
+<!-- end MoPUb integration -->
+
+
+
+<script src="phonegap.js"></script>
+<script src="lib/jquery-1.8.2.min.js"></script>
+<script src="lib/handlebars.js"></script>
+<script src="js/timerFunctions.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html>
