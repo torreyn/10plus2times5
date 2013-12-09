@@ -7,7 +7,7 @@ Introduction
 
 How it works
 ------------
-10 2 5
+10 minutes, then 2 minutes, 5 times
 * 10 - Work for ten minutes with single-minded focus on moving toward completion on a single task. Ten minutes, and that’s all you’re allowed to do is work, work, work. No cheating, because (DING!) you actually get a break when you’re done…
 * 2 - After ten minutes of sweaty, dedicated work you get a 2-minute break to do whatever you want—drink coffee, read 5ives, call your bookie, whatever. When the two minutes are up, it’s back to work on the next task on your list. This is important.
 * 5 - You’re going to iterate this four more times for a total of one hour’s working/breaking
