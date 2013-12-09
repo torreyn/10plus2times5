@@ -1,7 +1,9 @@
-10plus2times5
+10 plus 2 times 5 Productivity Hack Timer
 =============
 
-10 plus 2 times 5 Productivity Hack Timer
+Introduction
+------------
+10 plus 2 times 5 Productivity Hack was first introduced to me by Merlin Mann. [His article](http://www.43folders.com/2005/10/11/procrastination-hack-1025) explains the concept:
 
-This timer is based of this hack: http://www.43folders.com/2005/10/11/procrastination-hack-1025
+
 
