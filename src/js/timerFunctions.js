@@ -185,13 +185,13 @@ function reset(){                           // for optional reset button
 }
 
 function helpPage(){
-//	console.log('helpPage() called')
+	console.log('helpPage() called')
 	$("#helpPage").css({'display':'block'});
 	$("#main").hide();
 }
 
 function back(){
-//	console.log('helpPage() called')
+	console.log('back() called')
 	$("#main").css({'display':'block'});
 	$("#helpPage").hide();
 }
@@ -217,8 +217,7 @@ $(function() { // stop button
 });
 
 $(function() { // stop button
-	$("#bacj").click(function() {
+	$("#back").click(function() {
 		back();
 	});
 });
-
