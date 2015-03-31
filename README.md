@@ -14,6 +14,7 @@ How it works
 
 Future Work
 -----------
+* ~~pulse minute indicator~~
 * to turn it into a phone gap app
 * ability to run in the background when app/site is exited
 * access the phone/computer's alert system
